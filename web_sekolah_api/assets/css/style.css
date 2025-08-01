@@ -1,0 +1,6 @@
+
+body { background-color: #f9f7f4; }
+.text-brown { color: #a47148; }
+.bg-brown { background-color: #a47148 !important; }
+.card { border: none; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+.card-title { color: #a47148; }
